@@ -1,0 +1,24 @@
+* { 
+    background-color: grey;
+}
+table{
+    /*border: solid red 1px;*/
+    border-spacing: 0px;
+}
+tr{
+    border: solid black;
+}
+th{
+    border: solid black 1px;
+    padding: 5px;
+    background-color: brown;
+}
+td{
+    border: solid black 1px;
+    background-color: ghostwhite;
+    text-align: center;
+    padding: 5px;
+}
+#Pf{
+    text-align: end;
+}
